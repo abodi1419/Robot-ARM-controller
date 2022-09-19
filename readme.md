@@ -1,5 +1,5 @@
-# Robot Arm Controller
-##### Robot Arm controller is a project to control a robot arm remotely. Arm can be controlled by manipulating motors degree values.
+# Robot Arm Controller - Smart metods company
+##### Robot Arm controller is a project to control a robot arm remotely. Arm can be controlled by manipulating motors degree values. 
 
 ## Installing
 ##### 1- Clone this repository.
