@@ -1,4 +1,4 @@
-# Robot Arm Controller - Smart metods company
+# Robot Arm Controller - Smart methods company
 ##### Robot Arm controller is a project to control a robot arm remotely. Arm can be controlled by manipulating motors degree values. 
 
 ## Installing
